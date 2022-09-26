@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @averroes1126
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on big data projects!
 - 📫 How to reach me: Linkedin ( EDIN KADRIĆ)
 
